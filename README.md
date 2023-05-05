@@ -1,1 +1,1 @@
-# Sanctum_Smart_Contracts
+# Sanctum Smart Contracts
